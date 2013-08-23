@@ -1,0 +1,4 @@
+Apache Subversion (também conhecido por svn) é um sistema de controle de versão desenhado especificamente para ser um substituto moderno do CVS, que se considera ter algumas limitações.
+
+ Funcionalidades
+Subversion tem a maior parte das funcionalidades do CVS. De modo geral, a interface do Subversion segue à do CVS. Isto facilita a transição dos usuários do CVS para o Subversion.
